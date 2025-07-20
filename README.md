@@ -50,7 +50,3 @@ An interactive **React + Ant Design** tool to dynamically build and visualize JS
 📧 Email: [roushang720@gmail.com](roushang720@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/roushan-gupta-2aa923257/)
 
-## 💬 Feedback & Contributions  
-
-Feel free to fork, raise issues, or submit PRs!  
-Your contributions help make this tool better.
