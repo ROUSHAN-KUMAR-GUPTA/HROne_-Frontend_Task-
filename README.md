@@ -39,6 +39,17 @@ An interactive **React + Ant Design** tool to dynamically build and visualize JS
 5️⃣ **Submit Button** — Generate and view final JSON  
 6️⃣ **Reset Button** — Clear all fields to start fresh  
 
+## 🚀 Live Preview
+
+🔗 [Check the Live App Here](https://hr-one-frontend-task-theta.vercel.app/)
+
+## 🙋‍♂ About Me
+
+*Roushan Kumar Gupta*
+👨‍💻 B.Tech CSE | Passionate about Full Stack & AI
+📧 Email: [roushang720@gmail.com](roushang720@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/roushan-gupta-2aa923257/)
+
 ## 💬 Feedback & Contributions  
 
 Feel free to fork, raise issues, or submit PRs!  
