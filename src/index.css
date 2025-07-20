@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fafafa;
+  padding: 20px;
+}
+
+pre {
+  background: #f5f5f5;
+  padding: 10px;
+  border-radius: 5px;
+  overflow: auto;
+  max-height: 300px;
+}
+
+button + button {
+  margin-left: 10px;
+}
+
+.ant-card {
+  background-color: #fff;
+}
+
+h1, h4 {
+  margin-bottom: 10px;
+}
